@@ -1,8 +1,11 @@
-.navbar-custom{
-    background-color: #13192100;
+.navbar-up{
     height: 60px;
 }
 
+.navbar-down{
+    height: 39px;
+    background-color: #232f3e;
+}
 
 @font-face {
     font-family: 'Font-1';
